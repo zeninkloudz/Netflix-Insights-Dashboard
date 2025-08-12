@@ -39,7 +39,9 @@ The dataset was cleaned, transformed, and modeled in **Power Query** and **DAX**
 ┣ 📜 Netflix Content Dashboard.PNG
 ┗ 📜 netflix_titles.csv
 
-📈 Insights
+---
+
+##📈 Insights
 The USA produces the most Netflix content by a large margin.
 
 Movie releases peaked around 2018, while TV shows have shown steady growth.
@@ -47,8 +49,9 @@ Movie releases peaked around 2018, while TV shows have shown steady growth.
 Most movies have a duration of 90–120 minutes.
 
 Drama and Comedy dominate Netflix’s genre distribution.
+---
 
-💡 Future Improvements
+##💡 Future Improvements
 Integrate IMDb ratings for quality analysis.
 
 Add a time-series forecast for upcoming years.
