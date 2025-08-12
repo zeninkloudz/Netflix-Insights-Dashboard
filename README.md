@@ -1,4 +1,4 @@
-# 📊 Netflix Content Dashboard – Power BI
+# 📊 Netflix Insights Dashboard – Power BI
 
 ## 📌 Project Overview
 This project is an **interactive Power BI dashboard** analyzing over **8,200 Netflix titles**, including both movies and TV shows.  
