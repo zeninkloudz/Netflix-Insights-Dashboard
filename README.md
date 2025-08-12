@@ -28,7 +28,7 @@ The dataset was cleaned, transformed, and modeled in **Power Query** and **DAX**
 ---
 
 ## 📷 Dashboard Preview
-![Netflix Content Dashboard](Netflix%20Content%20Dashboard.PNG)
+![Netflix Content Dashboard](https://github.com/zeninkloudz/Netflix-Insights-Dashboard/blob/main/Netflix%20Content%20Dashboard.PNG)
 
 ---
 
